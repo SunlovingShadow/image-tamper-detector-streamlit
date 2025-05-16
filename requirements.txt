@@ -1,0 +1,7 @@
+streamlit
+torch
+timm
+scikit-learn
+joblib
+Pillow
+torchvision
